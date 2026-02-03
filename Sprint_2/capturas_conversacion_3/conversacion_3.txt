@@ -1,0 +1,13 @@
+"""
+Usuario:Basándote en el texto proporcionado, genera: 1. Un resumen estructurado en forma de 5 viñetas numeradas que destaquen los puntos clave y las ideas principales del contenido. 2. El resumen debe estar en idioma ingles americano(US). 3. No debe contener información en español.. Analizar el siguiente documento:Título: La IA puede ayudarte a vender tu auto
+Fuente: https://www.eleconomista.com.mx/finanzasperson...
+LLM: 1. **Growing E-commerce for Used Cars**: The rise of online platforms has transformed the sale of used vehicles, providing sellers with more advertising options through websites and social media.
+
+2. **Increased Supply of Used Cars**: Data from Mercado Libre Trends indicates a 7% increase in the supply of used cars in the first half of 2023 compared to the same period in 2022, highlighting the active role of marketplaces in auto sales.
+
+3. **Importance of High-Quality Images**: Jorge Dávila from Govirtaul emphasizes that including around 20 high-quality photographs enhances the buyer's experience and improves the chances of sale, as poor image quality can detract from the listing.
+
+4. **AI Tools for Better Listings**: Applications that utilize AI, such as Google Ads, can enhance vehicle listings by allowing sellers to edit backgrounds and improve image quality, thereby boosting visibility in online marketplaces.
+
+5. **AI Recommendations for Product Descriptions**: Tools like ChatGPT and Bard can assist sellers in crafting detailed and informative descriptions, suggesting important vehicle details to include, such as accident history, maintenance records, and current condition.
+"""
